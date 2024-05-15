@@ -30,28 +30,14 @@
 
 ##
 
-<div>
-  <a href="https://www.linkedin.com/in/marcos-reis-8b01bb201/" target="_blank" style="text-decoration: none;">
-    <img width="" height="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>  
-  </a>
-  <a href="#" target="_blank">
-  <img width="" height="" src="https://img.shields.io/badge/website-dc143c?style=for-the-badge&logo=About.me&logoColor=white" alt="website"/>
-  </a>
-    <a href="#" target="_blank">
-  <img width="" height="" src="https://img.shields.io/badge/Gmail-B71C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
-    </a>
-</div>
+[<img width="" height="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>](https://www.linkedin.com/in/marcos-reis-8b01bb201/)
+[<img width="" height="" src="https://img.shields.io/badge/website-dc143c?style=for-the-badge&logo=About.me&logoColor=white" alt="linkedin"/>](https://marcosreis.dev.br/)
+[<img width="" height="" src="https://img.shields.io/badge/Gmail-B71C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="linkedin"/>](mailto:contato@marcosreis.dev.br)
+
 
 
 
 <!-- 
-
-<style>
-  [data-a11y-link-underlines=true] .markdown-body a{
-    text-decoration: none !important; 
-  }
-</style>
-
 ### 🔭 I’m currently working on ...
 ### 🌱 Atualmente estou aprendendo 
 ### 👯 I’m looking to collaborate on ...
