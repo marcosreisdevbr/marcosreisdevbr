@@ -1,4 +1,4 @@
-![image](https://github.com/marcosreisdevbr/marcosreisdevbr/assets/167995307/811d6731-eb50-4f03-921d-cf7375882d0d)## Hi, I’m Marcos Reis 
+## Hi, I’m Marcos Reis 
 
 ### Skills and stacks
 
@@ -29,6 +29,9 @@
 </a>
 
 ##
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-reis-8b01bb201/)
+
 
 [<img width="" height="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>](https://www.linkedin.com/in/marcos-reis-8b01bb201/){:target="_blank"}
 [<img width="" height="" src="https://img.shields.io/badge/website-dc143c?style=for-the-badge&logo=About.me&logoColor=white" alt="linkedin"/>](https://marcosreis.dev.br/){:target="_blank"}
