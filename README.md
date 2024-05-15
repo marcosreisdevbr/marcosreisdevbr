@@ -42,13 +42,16 @@
     </a>
 </div>
 
+
+
+<!-- 
+
 <style>
   [data-a11y-link-underlines=true] .markdown-body a{
     text-decoration: none !important; 
   }
 </style>
 
-<!-- 
 ### 🔭 I’m currently working on ...
 ### 🌱 Atualmente estou aprendendo 
 ### 👯 I’m looking to collaborate on ...
