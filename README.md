@@ -1,6 +1,10 @@
-## Hi, I’m Marcos Reis 
+## Olá, Sou Marcos Reis 
 
-### Skills and stacks
+  ### Competências: 
+  > HTML5 · CSS · JavaScript · SASS · JQuery · Bootstrap · WordPress(CMS) · MySQL · PHP · UX/UI · Git · GitHub · ERP · 
+  E-commerce SEO · Adobe Photoshop · Adobe Illustrator · Figma ·Web design
+
+### Habilidades e Pilhas
 
 <div>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
@@ -12,7 +16,7 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/wordpress.png" alt="wordpress"/>
 </div>
 
-### I'm currently learning
+### Atualmente estou aprendendo
 
 <div>
   <img width="" height="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
