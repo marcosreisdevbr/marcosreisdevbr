@@ -7,21 +7,21 @@
 ### Habilidades e Pilhas
 
 <div>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/777bb3/php.png" alt="php"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
-  <img width="46" height="46" src="https://img.icons8.com/ios-filled/50/1266a9/jquery.png" alt="jquery"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/wordpress.png" alt="wordpress"/>
+  <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/></a>
+  <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/></a>
+  <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/></a>
+  <a href="#"><img width="48" height="48" src="https://img.icons8.com/ios-filled/50/777bb3/php.png" alt="php"/></a>
+  <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/></a>
+  <a href="#"><img width="46" height="46" src="https://img.icons8.com/ios-filled/50/1266a9/jquery.png" alt="jquery"/></a>
+  <a href="#"><img width="48" height="48" src="https://img.icons8.com/fluency/48/wordpress.png" alt="wordpress"/></a>
 </div>
 
 ### Atualmente estou aprendendo
 
 <div>
-  <img width="" height="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img width="" height="" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img width="" height="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs"/>
+  <a href="#"><img width="" height="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+  <a href="#"><img width="" height="" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="#"><img width="" height="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs"/></a>
 </div>
 
 ## 
